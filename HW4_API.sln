@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW4_API", "HW4_API\HW4_API.csproj", "{4206D659-6F49-416A-9D12-D43CE4AD06D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4206D659-6F49-416A-9D12-D43CE4AD06D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4206D659-6F49-416A-9D12-D43CE4AD06D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4206D659-6F49-416A-9D12-D43CE4AD06D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4206D659-6F49-416A-9D12-D43CE4AD06D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {861FBD30-55FB-4249-98F3-733D17BD2FB6}
+	EndGlobalSection
+EndGlobal
